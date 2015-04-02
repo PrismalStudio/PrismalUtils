@@ -5,7 +5,7 @@
  * @brief	
  */
 
-#include "TextResource.h"
+#include "Util/Resource/TextResource.h"
 
 namespace Util
 {
@@ -21,4 +21,10 @@ TextResource::~TextResource()
 	// TODO Auto-generated destructor stub
 }
 
-} /* namespace xover */
+bool TextResource::load(const std::string& filename)
+{
+	// FIXME
+	return true;
+}
+
+} /* namespace Util */

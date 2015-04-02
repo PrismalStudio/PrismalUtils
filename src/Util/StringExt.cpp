@@ -19,7 +19,7 @@
  *  2013-08-10 renamed Util to StringExt.
  */
 
-#include "StringExt.h"
+#include "Util/StringExt.h"
 #include <algorithm>
 
 /**

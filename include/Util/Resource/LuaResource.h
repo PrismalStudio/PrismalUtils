@@ -8,14 +8,17 @@
 #ifndef LUA_RESOURCE_H_
 #define LUA_RESOURCE_H_
 
+#include "Resource.h"
+
 extern "C"
 {
 #include "lua.h"
 #include "lualib.h"
 #include "lauxlib.h"
 }
+
 #include <string>
-#include "Resource.h"
+
 
 namespace Util
 {

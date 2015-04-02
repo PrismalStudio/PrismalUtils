@@ -5,7 +5,7 @@
  * @brief	
  */
 
-#include "FileHelper.h"
+#include "Util/FileHelper.h"
 #include <sys/stat.h> /* stat function in fileExist */
 #include <fstream> /* readFile uses ifstream */
 

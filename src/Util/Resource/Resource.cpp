@@ -10,7 +10,7 @@
  *  @copyright 	Prismal Studio 2008-2013 www.prismalstudio.com
  */
 
-#include "Resource.h"
+#include "Util/Resource/Resource.h"
 
 namespace Util {
 

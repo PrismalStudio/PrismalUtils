@@ -5,7 +5,7 @@
  *      Author: Bidou
  */
 
-#include "LuaResource.h"
+#include "Util/Resource/LuaResource.h"
 #include <iostream>
 
 namespace Util
